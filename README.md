@@ -256,7 +256,30 @@ Program executed successfully on<span style="color:#308080; ">:</span> <span sty
 
 * In this section, we illustrate sample face and eyes detection results from the same 10 test images used for testing the Haar Cascades face detector. These images were selected from the WIDER FACE Test data subset.
 
-<img src="images/SSD-MOBILENET--Face-Detection-Results.png" width="1000"/>
+<table>
+  <tr>
+    <td> <img src="images/test-image-01.jpg"  width = "500" align = "center" ></td>
+    <td> <img src="images/test-image-02.jpg"  width = "500" align = "center" ></td>
+   </tr> 
+   <tr>
+      <td> <img src="images/test-image-03.jpg"  width = "500" align = "center" ></td>
+      <td> <img src="images/test-image-04.jpg"  width = "500" align = "center" ></td>
+  </td>
+  <tr>
+      <td> <img src="images/test-image-05.jpg"  width = "500" align = "center" ></td>
+      <td> <img src="images/test-image-06.jpg"  width = "500" align = "center" ></td>
+  </td>
+  <tr>
+      <td> <img src="images/test-image-07.jpg"  width = "500" align = "center" ></td>
+      <td> <img src="images/test-image-08.jpg"  width = "500" align = "center" ></td>
+  </td>
+  <tr>
+      <td> <img src="images/test-image-09.jpg"  width = "500" align = "center" ></td>
+      <td> <img src="images/test-image-010.jpg"  width = "500" align = "center" ></td>
+  </td>
+  </tr>
+</table>
+
 
 ## 5. Analysis
 

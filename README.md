@@ -10,6 +10,7 @@ In this project, we shall demonstrate the Deep Learning (DL) inference using a D
 
 * SSD+MobileNet-v2 is a state-of-the-art, real-time object detection model. It is not straight forward to reasonably train this network from scratch, due to several reasons including: 
 
+
   * Lack of large volume of annotated data 
   * Lack of sufficiently powerful computing resources.
 
